@@ -16,7 +16,7 @@ Rock climbing has been growing in popularity in the past 5 years, particularly i
 </p>
 
 
-As new climbers venture outside they are faced with the difficulties of navigating the various outdoor climbing areas (referred to as "crags").  A given crag can have 1 to 100+ separate climbing routes - each of which are composed of a line of going bolts up the wall.  These bolts are what the climber clips the rope into as he/she is climbing.  
+As new climbers venture outside they are faced with the difficulties of navigating the various outdoor climbing areas (referred to as "crags").  A given crag can have 1 to 100+ separate climbing routes - each of which are composed of a line of bolts going up the wall.  These bolts are what the climber clips the rope into as he/she is climbing.  
 
 <p align="center">
   <img  src="images/quickdraw_on_bolt.jpg" width="600" height="300">
